@@ -7,6 +7,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](davilucena230@gmail.com)
 [![Gmail](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@davi.queiroz_?_t=8nwXc3U9kGs&_r=1)
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviPereira-ADS&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviPereira-ADS&layout=compact)
