@@ -1,4 +1,6 @@
 <div>
+    <img align="center" width=100% src="davi.png">
+&nbsp;&nbsp;&nbsp; 
    <img align="center" width=100% src="![davi](https://github.com/user-attachments/assets/7904959d-8eef-432f-9c1e-152d48b5abbe)">
 &nbsp;&nbsp;&nbsp; 
 </div>
