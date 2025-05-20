@@ -9,7 +9,6 @@
 <p align="center">Eu desenvolvo soluções web inovadoras. <br><br> Graduando em Análise e Desenvolvimento de Sistemas, com conhecimento em <strong>HTML, CSS, JavaScript, Java e Mysql</strong>. Sou apaixonado por criar experiências inovadoras com tecnologia e desenvolver <strong>soluções inteligentes e de alta qualidade </strong> que atendam às necessidades do usuário. 
 
 <div align="center" style="margin-bottom:100px">
-<img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=DaviPereiraL&theme=dracula&mode=weekly" />
 <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviPereiraL&show_icons=true&theme=dracula&layout=compact" />
 </div>
  
